@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A high-fidelity Task Manager following Clean Architecture and MVVM with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
